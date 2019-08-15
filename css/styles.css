@@ -9,6 +9,15 @@ h1 {
     line-height: 1.5;
 }
 
+h3 {
+    font-family: "Montserrat-Bold";
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
 body {
     font-family: "Montserrat";
 }
@@ -50,4 +59,23 @@ body {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+}
+
+/* Features */
+
+.feature {
+    text-align: center;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.pinkout {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.pinkout:hover {
+    color: #ff4c68;
 }
