@@ -131,6 +131,7 @@ body {
 }
 
 /* Pricing Section */
+
 #pricing {
     padding: 100px;
     text-align: center;
@@ -138,4 +139,30 @@ body {
 
 .pricing-column {
     padding: 3% 2%;
+}
+
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.cta-text {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    color: white;
+    padding: 5% 22% 0%;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+    padding: 8% 2%;
+}
+
+.social-icon {
+    padding: 10px;
 }
