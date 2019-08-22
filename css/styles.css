@@ -19,8 +19,21 @@ p {
     line-height: 1.5;
 }
 
+/* Containers */
+
 .container-fluid {
     padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
 }
 
 /* Navigation Bar */
@@ -47,15 +60,9 @@ p {
 
 /* Title */
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-
-}
-
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Title Image */
@@ -106,7 +113,6 @@ p {
 
 /* Testimonial Section */
 #testimonials {
-    color: white;
     background-color: #ef8172;
 }
 
@@ -151,13 +157,6 @@ p {
 
 .pricing-column {
     padding: 3% 2%;
-}
-
-/* Call to Action */
-
-#cta {
-    background-color: #ff4c68;
-    color: #fff;
 }
 
 /* Footer */
